@@ -1,5 +1,6 @@
 ## Hi there 👋
 
-I am a **Computer Science graduate** with over **3.5 years** of practical industry experience, highly skilled in **cross-platform mobile application development** using **React Native**. I have a passion for creating robust and high-quality applications for both **iOS and Android** platforms.
+I am a computer science graduate and a dedicated React Native developer with over three
+years of practical industry experience. My experience spans various technologies, including Expo, React Native, React.js, TypeScript, Firebase, Supabase, MERN stack, API development, Testing, Automation, Security, Store Submissions, and more. I thrive in collaborative environments, ensuring high code quality while embracing mentorship and continuous learning. I'm passionate about transforming complex ideas into intuitive and high-performing mobile applications.
 
 **Projects and Portfolio:** https://raahim-khan-portfolio.vercel.app/
