@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-I am a Computer Science graduate and a dedicated software engineer with over 3 years of industry experience. I’ve worked with a range of technologies including, but not limited to, React Native, Expo, React.js, TypeScript, JavaScript, Node.js, Firebase, Supabase, Express.js, and MongoDB. I focus on building mobile applications end-to-end, covering everything from UI implementation to backend integration and release management. I enjoy turning complex ideas into clean, reliable, and user friendly applications.
-
-📌 Portfolio: https://raahim-khan.vercel.app/
+I am a Computer Science graduate and a Full Stack Software Engineer with four years of extensive experience in developing cross platform applications. I specialize in developing and deploying end-to-end full stack mobile applications using React Native. I’ve worked with a range of technologies including, but not limited to, React Native, Expo, React.js, TypeScript, JavaScript, Node.js, Firebase, Supabase, Express.js, MongoDB, etc. I am always ready to wear different hats and use different tech stacks as per the requirements to drive project success!
